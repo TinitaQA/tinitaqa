@@ -15,16 +15,23 @@
 ---
 ### Инструменты: 
 
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=47C5FB) 
+![Visual Studio Code](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
 ![IDEA](https://img.shields.io/badge/-IDEA-090909?style=for-the-badge&logo=idea&logoColor=F8C52C)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D) 
 
+
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=47C5FB) 
 ![Github](https://img.shields.io/badge/-Gtthub-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) 
 
-![JUnit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit&logoColor=6296CC) ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D) 
+![JUnit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit&logoColor=6296CC) 
+![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=%23C71A36)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=%2302303A
+)
+
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=6296CC) 
 ![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=E9D54D)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
+
 
 ---
 ## Сертификаты Нетологии
