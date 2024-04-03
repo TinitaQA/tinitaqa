@@ -6,12 +6,16 @@
 ## Вот, что я умею
 <p href="left"><img src="https://otkrytky.ru/o/img/0297/otrkytky-ru-105-aG9zdGluZ2thcnRpbm9rLmNvbQ.gif" width="200"/></p>
 
-- Ручное тестирование веб-приложений <br>[Курсовая работа](https://github.com/TinitaQA/manualcw) <br> [Домашние работы](https://github.com/TinitaQA/manualhw)
+- Ручное тестирование веб-приложений <br>
+[Курсовая работа](https://github.com/TinitaQA/manualcw) <br> 
+[Домашние работы](https://github.com/TinitaQA/manualhw)
 
 - Java для тестировщиков <br>
 [Домашние работы](https://github.com/TinitaQA/javahw)<br>
 [Командный проект](https://github.com/TinitaQA/javaqa-team-diplom-2)
 
+- Автоматизированное тестирование <br>
+[Курсовой проект](https://github.com/TinitaQA/tour-course-work)
 ---
 ### Инструменты: 
 
@@ -40,4 +44,6 @@
 - [Git](/images/git.jpg)
 
 - [Java](/images/java.jpg)
+
+- [Атоматизированное тестирование](/images/automatic.jpg)
 
