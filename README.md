@@ -8,7 +8,6 @@
 
 - Ручное тестирование веб-приложений <br>
 [Курсовая работа](https://github.com/TinitaQA/manualcw) <br> 
-[Домашние работы](https://github.com/TinitaQA/manualhw)
 
 - Java для тестировщиков <br>
 [Домашние работы](https://github.com/TinitaQA/javahw)<br>
@@ -29,11 +28,10 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D) 
 ![JUnit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit&logoColor=6296CC) 
 ![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=%23C71A36)
-![Gradle](https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=%2302303A
-)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=%2302303A)
 
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=6296CC) 
-![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=E9D54D)
+
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
 
 
